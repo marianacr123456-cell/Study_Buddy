@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
-import 'backend/backend.dart';
+
+import 'package:study_buddy/backend/backend.dart';
+
+import 'package:study_buddy/backend/backend.dart';
+
 import 'package:shared_preferences/shared_preferences.dart';
-import 'flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
 
 class FFAppState extends ChangeNotifier {
   static FFAppState _instance = FFAppState._internal();

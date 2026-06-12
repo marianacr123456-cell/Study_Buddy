@@ -1,6 +1,12 @@
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
 import 'tab_item_widget.dart' show TabItemWidget;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

@@ -1,13 +1,26 @@
-import 'components/academic_event/academic_event_widget.dart';
-import 'components/metric_card/metric_card_widget.dart';
-import 'components/switch_component/switch_component_widget.dart';
-import 'flutter_flow/flutter_flow_charts.dart';
-import 'flutter_flow/flutter_flow_icon_button.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/components/academic_event/academic_event_widget.dart';
+import 'package:study_buddy/components/metric_card/metric_card_widget.dart';
+import 'package:study_buddy/components/switch_component/switch_component_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_charts.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_icon_button.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
 import 'dart:ui';
-import 'flutter_flow/custom_functions.dart' as functions;
+import 'package:study_buddy/flutter_flow/custom_functions.dart' as functions;
+
+import 'package:study_buddy/components/academic_event/academic_event_widget.dart';
+import 'package:study_buddy/components/metric_card/metric_card_widget.dart';
+import 'package:study_buddy/components/switch_component/switch_component_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_charts.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_icon_button.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+import 'dart:ui';
+import 'package:study_buddy/flutter_flow/custom_functions.dart' as functions;
+
 import 'asistente_widget.dart' show AsistenteWidget;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

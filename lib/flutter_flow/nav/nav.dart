@@ -4,16 +4,29 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:provider/provider.dart';
-import 'backend/backend.dart';
 
-import 'main.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/lat_lng.dart';
-import 'flutter_flow/place.dart';
-import 'flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/backend/backend.dart';
+
+import 'package:study_buddy/main.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/lat_lng.dart';
+import 'package:study_buddy/flutter_flow/place.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
 import 'serialization_util.dart';
 
-import 'index.dart';
+import 'package:study_buddy/index.dart';
+
+import 'package:study_buddy/backend/backend.dart';
+
+import 'package:study_buddy/main.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/lat_lng.dart';
+import 'package:study_buddy/flutter_flow/place.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'serialization_util.dart';
+
+import 'package:study_buddy/index.dart';
+
 
 export 'package:go_router/go_router.dart';
 export 'serialization_util.dart';

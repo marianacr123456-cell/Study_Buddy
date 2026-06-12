@@ -1,13 +1,26 @@
-import 'components/achievement_badge/achievement_badge_widget.dart';
-import 'components/bottom_nav6/bottom_nav6_widget.dart';
-import 'components/button/button_widget.dart';
-import 'components/menu_item/menu_item_widget.dart';
-import 'components/stat_item/stat_item_widget.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/components/achievement_badge/achievement_badge_widget.dart';
+import 'package:study_buddy/components/bottom_nav6/bottom_nav6_widget.dart';
+import 'package:study_buddy/components/button/button_widget.dart';
+import 'package:study_buddy/components/menu_item/menu_item_widget.dart';
+import 'package:study_buddy/components/stat_item/stat_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
 import 'dart:ui';
-import 'index.dart';
+import 'package:study_buddy/index.dart';
+
+import 'package:study_buddy/components/achievement_badge/achievement_badge_widget.dart';
+import 'package:study_buddy/components/bottom_nav6/bottom_nav6_widget.dart';
+import 'package:study_buddy/components/button/button_widget.dart';
+import 'package:study_buddy/components/menu_item/menu_item_widget.dart';
+import 'package:study_buddy/components/stat_item/stat_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+import 'dart:ui';
+import 'package:study_buddy/index.dart';
+
 import 'perfil_widget.dart' show PerfilWidget;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

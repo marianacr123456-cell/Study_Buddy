@@ -1,11 +1,22 @@
-import 'components/button/button_widget.dart';
-import 'components/local_social_button/local_social_button_widget.dart';
-import 'components/text_field/text_field_widget.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/components/button/button_widget.dart';
+import 'package:study_buddy/components/local_social_button/local_social_button_widget.dart';
+import 'package:study_buddy/components/text_field/text_field_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
 import 'dart:ui';
-import 'index.dart';
+import 'package:study_buddy/index.dart';
+
+import 'package:study_buddy/components/button/button_widget.dart';
+import 'package:study_buddy/components/local_social_button/local_social_button_widget.dart';
+import 'package:study_buddy/components/text_field/text_field_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+import 'dart:ui';
+import 'package:study_buddy/index.dart';
+
 import 'registro_widget.dart' show RegistroWidget;
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

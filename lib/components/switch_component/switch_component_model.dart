@@ -1,6 +1,12 @@
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
 import 'dart:ui';
 import 'switch_component_widget.dart' show SwitchComponentWidget;
 import 'package:flutter/material.dart';

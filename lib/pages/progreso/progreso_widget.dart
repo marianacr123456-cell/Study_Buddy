@@ -1,12 +1,24 @@
-import 'backend/backend.dart';
-import 'components/mood_log_item/mood_log_item_widget.dart';
-import 'components/stat_card/stat_card_widget.dart';
-import 'components/tab_item/tab_item_widget.dart';
-import 'flutter_flow/flutter_flow_charts.dart';
-import 'flutter_flow/flutter_flow_icon_button.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/backend/backend.dart';
+import 'package:study_buddy/components/mood_log_item/mood_log_item_widget.dart';
+import 'package:study_buddy/components/stat_card/stat_card_widget.dart';
+import 'package:study_buddy/components/tab_item/tab_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_charts.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_icon_button.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/backend/backend.dart';
+import 'package:study_buddy/components/mood_log_item/mood_log_item_widget.dart';
+import 'package:study_buddy/components/stat_card/stat_card_widget.dart';
+import 'package:study_buddy/components/tab_item/tab_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_charts.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_icon_button.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';

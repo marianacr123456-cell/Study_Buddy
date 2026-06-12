@@ -1,7 +1,14 @@
-import 'components/nav_item/nav_item_widget.dart';
-import 'flutter_flow/flutter_flow_theme.dart';
-import 'flutter_flow/flutter_flow_util.dart';
-import 'flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/components/nav_item/nav_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
+import 'package:study_buddy/components/nav_item/nav_item_widget.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_theme.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_util.dart';
+import 'package:study_buddy/flutter_flow/flutter_flow_widgets.dart';
+
 import 'dart:ui';
 import 'bottom_nav11_widget.dart' show BottomNav11Widget;
 import 'package:flutter/material.dart';
